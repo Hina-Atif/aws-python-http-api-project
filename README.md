@@ -21,16 +21,21 @@ It provides a lightweight, scalable, and cost-efficient backend solution for han
 Documentation of the project lifecycle from CLI initialization to successful cloud deployment.
 
 
-![WhatsApp Image 2025-12-22 at 8 27 36 PM](https://github.com/user-attachments/assets/c3024af5-8aa7-4727-827d-d789500380e8)
-![09-web-response2](https://github.com/user-attachments/assets/7cf7650b-af5b-40ff-9a11-7b9113ad5c3f)
-![08-web-response](https://github.com/user-attachments/assets/d4e2607a-9f82-46e4-9da4-ac2355959ead)
-![07-api-gateway-trigger png](https://github.com/user-attachments/assets/b92bf11f-df5e-46cb-bbf3-cbadfb5d650f)
-![06-cloudwatch-logs png](https://github.com/user-attachments/assets/2bb8fc57-aaa6-4d18-8a63-aa6b729a3836)
-![05-cloudformation-stack png](https://github.com/user-attachments/assets/6e252d4d-fb5b-4352-b3c8-afa9c8bc8d71)
-![04-aws-lambda-list png](https://github.com/user-attachments/assets/ee27f764-4345-46bd-8a18-17c7a2514b9e)
-![03-deploy-success png](https://github.com/user-attachments/assets/b0712c4f-036c-4a79-9f95-2a9f3d960351)
-![02-python-logic](https://github.com/user-attachments/assets/7a13cabc-5707-4448-87a4-7c552442a26a)
-![01-project-init](https://github.com/user-attachments/assets/223e7457-3d59-4060-8572-eeb55133f725)
+![01-project-init](https://github.com/user-attachments/assets/adab3970-ee79-4d2b-9776-114e4edde101)
+![02-python-logic](https://github.com/user-attachments/assets/b9e904fd-72f8-43b2-9ca7-f287a676b9df)
+![03-deploy-success png](https://github.com/user-attachments/assets/8df1315a-8da6-494f-84c1-e9af3d9b2240)
+![04-aws-lambda-list png](https://github.com/user-attachments/assets/f975b219-040d-4d58-bf9d-241eb24bd407)
+![05-cloudformation-stack png](https://github.com/user-attachments/assets/2cbcc88b-2141-4d7f-b246-dc9f2ec7e858)
+![06-cloudwatch-logs png](https://github.com/user-attachments/assets/4fa6547f-6c0f-4100-89d0-5ec77d09d030)
+![07-api-gateway-trigger png](https://github.com/user-attachments/assets/58c7e51b-0da4-4f80-86cb-17aef5026e28)
+![08-web-response](https://github.com/user-attachments/assets/5ff3717a-64e7-4e00-a768-cfa69d11df84)
+![09-web-response2](https://github.com/user-attachments/assets/136fe460-a718-483e-8908-166247c2eb2c)
+![WhatsApp Image 2025-12-22 at 8 27 36 PM](https://github.com/user-attachments/assets/47560416-4344-4023-b1f6-0532b7151baa)
+
+
+
+
+
 
 ## Tech Stack & Tools
 - **Programming Language:** Python 3.12
