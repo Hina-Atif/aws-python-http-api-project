@@ -14,27 +14,7 @@ It provides a lightweight, scalable, and cost-efficient backend solution for han
 - Easy to deploy and maintain
 - Built-in monitoring via AWS CloudWatch
 
-  ## 🖼️ Project Gallery
 
-### 🏗️ Development & Deployment
-Documentation of the project lifecycle from CLI initialization to successful cloud deployment.
-
-## 🚀 Deployment Screenshots
-
-### Infrastructure & Compute
-| CloudFormation Stack | Lambda Functions |
-| :---: | :---: |
-| ![CloudFormation Stack](screenshots/05-cloudformation-stack.png) | ![Lambda Functions](screenshots/04-aws-lambda-list.png) |
-
-### Networking & Monitoring
-| API Gateway Triggers | CloudWatch Logs |
-| :---: | :---: |
-| ![API Gateway](screenshots/07-api-gateway-trigger.png) | ![CloudWatch Logs](screenshots/06-cloudwatch-logs.png) |
-
-### Cross-Platform Verification
-| Desktop API Output | Mobile API Output |
-| :---: | :---: |
-| ![Desktop Test](screenshots/08-web-response.jpeg) | ![Mobile Test](screenshots/09-mobile-response.png) |
 ---
 
 ## Tech Stack & Tools
